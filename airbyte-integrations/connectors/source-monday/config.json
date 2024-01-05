@@ -1,0 +1,6 @@
+{
+    "credentials": {
+        "auth_type": "api_token",
+        "api_token": "your token"
+    }
+}
